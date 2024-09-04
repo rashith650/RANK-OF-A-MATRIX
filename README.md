@@ -1,4 +1,4 @@
-![ex 2](https://github.com/user-attachments/assets/6fd58366-8210-4abf-b125-19644716059f)# Ex-2 : RANK-OF-A-MATRIX
+# Ex-2 : RANK-OF-A-MATRIX
 ## DATE:
 ## Aim:
 To write a python program to find the rank of a matrix
